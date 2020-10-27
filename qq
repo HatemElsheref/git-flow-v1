@@ -1,0 +1,159 @@
+[33mcommit 32053b4a54b48eae62a74dd14ca2aeee38b43175[m[33m ([m[1;36mHEAD -> [m[1;32mnew-feature[m[33m)[m
+Merge: c856b02 572e12b
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Wed Oct 28 00:14:16 2020 +0200
+
+    Merge branch 'new-feature' of github.com:HatemElsheref/git-flow-v1 into new-feature
+
+[33mcommit c856b024ad9f3db685bf4a98e1622b7098e3b116[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Wed Oct 28 00:13:38 2020 +0200
+
+    add txt file by 2 branch
+
+[33mcommit 572e12b439b27a8cf1a2d698f5b89ca0ae75c9f3[m[33m ([m[1;31morigin/new-feature[m[33m)[m
+Merge: f844bea 6e29dca
+Author: HatemElsheref <43860972+HatemElsheref@users.noreply.github.com>
+Date:   Wed Oct 28 00:10:39 2020 +0200
+
+    Merge pull request #1 from HatemElsheref/master
+    
+    Master
+
+[33mcommit 6e29dcaf1c6f20187a69e1b5eaf0b4a8bb1ea31f[m
+Merge: 6b5b567 f844bea
+Author: HatemElsheref <43860972+HatemElsheref@users.noreply.github.com>
+Date:   Wed Oct 28 00:10:28 2020 +0200
+
+    Merge branch 'new-feature' into master
+
+[33mcommit f844bea95aaa7eac8d97728153b5bf615b368cb9[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Wed Oct 28 00:02:50 2020 +0200
+
+    add new configuration
+
+[33mcommit 6b5b567f8bad078b5fcb1bb11ae67ae0ea9bca98[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 46e9957 7d41465
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Wed Oct 28 00:01:03 2020 +0200
+
+    finalize the config file
+
+[33mcommit 7d41465e4bcf131841e3e70b4a3ce36f2b7426c7[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 23:59:47 2020 +0200
+
+    new feature branch
+
+[33mcommit 46e9957230ca4d80fb96276cef176346c62655d7[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 23:57:11 2020 +0200
+
+    master branch in config file
+
+[33mcommit 34408459677be45a11f6aacaf150bc1d14f5f27f[m
+Merge: 5bc1484 f0b1e6e
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 23:09:06 2020 +0200
+
+    Merge branch 'new-feature' of github.com:HatemElsheref/git-flow-v1 into new-feature
+
+[33mcommit f0b1e6ecb0ea0e6c9a018d4548ed6d0413d6b1cb[m
+Author: HatemElsheref <43860972+HatemElsheref@users.noreply.github.com>
+Date:   Tue Oct 27 22:51:02 2020 +0200
+
+    Update from_github
+
+[33mcommit 5bc1484507e85258406c45885f8ded2e163af32a[m
+Merge: 330a8ea 576c89e
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:49:54 2020 +0200
+
+    Merge branch 'new-feature' of github.com:HatemElsheref/git-flow-v1 into new-feature
+
+[33mcommit 330a8eafabdd0a17a6419ea168ecf8d86d81df39[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:48:18 2020 +0200
+
+    add new commit in from github file
+
+[33mcommit fe846195af9d5bbcb9d4d98e18d7eb7fcb2b2ceb[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:47:05 2020 +0200
+
+    new application configuration
+
+[33mcommit 576c89e419812ecda36092d094607becfb9b2a8a[m
+Author: HatemElsheref <43860972+HatemElsheref@users.noreply.github.com>
+Date:   Tue Oct 27 22:32:48 2020 +0200
+
+    create app.blade.php file from github server
+
+[33mcommit 26640f391def399fd65c9f97286eaeffa86912a9[m
+Merge: 05cce6a 5a9be2e
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:29:54 2020 +0200
+
+    add new comment
+
+[33mcommit 05cce6a2139c013e91354694d173a8ee9b4bd2d6[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:26:23 2020 +0200
+
+    update index.php file in local
+
+[33mcommit 5a9be2ede4374692e98a074cde76a59674a0e1a8[m
+Author: HatemElsheref <43860972+HatemElsheref@users.noreply.github.com>
+Date:   Tue Oct 27 22:25:24 2020 +0200
+
+    Update index.php
+
+[33mcommit afcc59296521dbb3e234d575b8a2697967c41666[m
+Merge: 77e47fb ac1ebe0
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:17:42 2020 +0200
+
+    Merge branch 'new-feature' of github.com:HatemElsheref/git-flow-v1 into new-feature
+
+[33mcommit 77e47fb04d04fd30c57976e3818254689dd8a3d2[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:14:50 2020 +0200
+
+    new update 3
+
+[33mcommit ac1ebe0445c5a963eaf7105fffc1aad03b4d0dd5[m
+Author: HatemElsheref <43860972+HatemElsheref@users.noreply.github.com>
+Date:   Tue Oct 27 22:14:20 2020 +0200
+
+    Create from_github
+
+[33mcommit 5995b6a99cc78b3564041ee07a11d25a49fa443b[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:12:00 2020 +0200
+
+    new update 2
+
+[33mcommit 3bb425b4e9483ce285d0e23d79982e18789fac2e[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 22:09:15 2020 +0200
+
+    new update 1
+
+[33mcommit 24a6f07c4a804784d7e493a8fc82527bac91e581[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 20:30:37 2020 +0200
+
+    make new feature in new-feature branch
+
+[33mcommit d27f71dd2dc8fe35cf60b9a1f8341c9cf8dd799a[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 20:01:34 2020 +0200
+
+    add the main js file with variable name = hatem
+
+[33mcommit 00564b4448237cfe93f60b779decc106a3228943[m
+Author: Hatem Mohamed <elsherefpentester@gmail.com>
+Date:   Tue Oct 27 19:34:45 2020 +0200
+
+    Building The Project Structure
